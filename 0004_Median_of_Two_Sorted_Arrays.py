@@ -11,4 +11,3 @@ class Solution(object):
             mid1 = merged[(len(merged)//2)-1]
             mid2 = merged[(len(merged))//2]
             return (mid1 + mid2) / 2.0
-        
